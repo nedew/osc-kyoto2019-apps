@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "electron": "^5.0.8",
+    "electron": "^13.6.6",
     "fs": "0.0.1-security",
     "jquery": "^3.4.1",
     "jsonfile": "^5.0.0",
